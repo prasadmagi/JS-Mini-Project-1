@@ -4,8 +4,8 @@
  
 # Description
  
- This project is similar to the guess the number like some number range is there from 1 to 100 and one random number is genrateed so we have to guess that number.
- But in this project we have to speak that random number and we have 10 attempt only. So within 10 attempt we have to speak that guess number.
+ This project is similar to the guess the number like some number range is from 1 to 100 and one random number is generated so we have to guess that number.
+ But in this project, we have to speak that random number and we have 10 attempts only. So within 10 attempts, we have to speak that guessed number.
  
 # Tech stack used in project
  
