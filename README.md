@@ -14,7 +14,7 @@
  * Javascript
  * SpeechRecognition
 
-# Referances 
+# Referance
 
 https://www.geeksforgeeks.org/how-to-convert-speech-into-text-using-javascript/
 
